@@ -1,0 +1,17 @@
+title: Today I Learned with Michał Kalbarczyk
+author: Michał Kalbarczyk
+description: Today I Learned with Michał Kalbarczyk
+url: "https://til.fazibear.me"
+
+permalink: /:title
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

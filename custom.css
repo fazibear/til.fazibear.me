@@ -32,8 +32,8 @@ pre {
 }
 
 pre code {
-  padding: 0;
-  padding-left: var(--global-space);
+  padding: 0 !important;
+  padding-left: var(--global-space) !important;
   background-color: var(--background-color) !important;
 }
 

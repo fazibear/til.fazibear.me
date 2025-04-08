@@ -2,8 +2,13 @@ title: Today I Learned with Michał Kalbarczyk
 author: Michał Kalbarczyk
 description: Today I Learned with Michał Kalbarczyk
 url: "https://til.fazibear.me"
+ga: "G-4093L52QLW"
+nav_logo: til.fazibear.me
+primary_color: "#9462ff"
 
 permalink: /:title
+
+theme: "fazibear.me"
 
 plugins:
   - jekyll-feed
@@ -14,4 +19,4 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout: "terminal"

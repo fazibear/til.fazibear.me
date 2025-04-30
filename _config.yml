@@ -6,6 +6,9 @@ ga: "G-4093L52QLW"
 nav_logo: til.fazibear.me
 primary_color: "#9462ff"
 
+visitors:
+  path: fazibear.me
+
 permalink: /:title
 
 theme: "fazibear.me"

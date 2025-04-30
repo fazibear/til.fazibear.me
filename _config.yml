@@ -9,7 +9,7 @@ primary_color: "#9462ff"
 visitors:
   path: fazibear.me
 
-permalink: /:title
+permalink: /:title/
 
 theme: "fazibear.me"
 
